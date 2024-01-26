@@ -8,7 +8,7 @@ neofetch
 ```
 - to make it faster
 ``` sh
-sudo nano /usr/bin/neofetch
+sudo nvim /usr/bin/neofetch
 ```
 comment the line  `has "rpm" && tot rpm -qa`
 
